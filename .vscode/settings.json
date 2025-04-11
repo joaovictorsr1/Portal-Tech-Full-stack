@@ -9,5 +9,6 @@
   // zen mode
   "zenMode.fullScreen": false,
   "zenMode.centerLayout": false,
-  "zenMode.showTabs": "single"
+  "zenMode.showTabs": "single",
+  "liveServer.settings.port": 5501
 }
